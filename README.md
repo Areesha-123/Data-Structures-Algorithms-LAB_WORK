@@ -88,7 +88,7 @@ Add GUI-based implementations
 👩‍💻 Author
 
 Areesha Raheel
-Computer Science Student | MERN Stack Developer | Problem Solver
+Information Technology Student|Problem Solver
 
 📌 Note
 
